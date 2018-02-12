@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         int i = 0;
     }
 
-    private void update(){
-        //
-    }
+    private void update(){}
+
 }
